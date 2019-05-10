@@ -8,22 +8,22 @@ This repository list the applications that should be install after a new windows
 
 ## Web Browser
 + [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwn8_mBRCLARIsAKxi0GIn00etNncqNrZGbwCPCgytisPcV8KkXVV-ytDckH2GqntMJPQvXjEaAnfgEALw_wcB&gclsrc=aw.ds)
-- [Mozilla Firefox]()
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ## Text Editor
-- [Notepad++]()
-- [Typora for Markdown Editor]()
-- [Microsoft Visual Studio Code]()
-- [Visual Studio Enterprise 2017 with Xamarin]()
+- [Notepad++](https://notepad-plus-plus.org/download/v7.6.6.html)
+- [Typora for Markdown Editor](https://typora.io/)
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/docs?dv=win)
+- [Visual Studio Enterprise 2017 with Xamarin](https://visualstudio.microsoft.com/downloads/)
 - [IntelliJ IDEA for Java development]()
-- [MobaXterm for Linux SSH]()
-- [GitHub Desktop]()
+- [MobaXterm for Linux SSH](https://mobaxterm.mobatek.net/download.html)
+- [GitHub Desktop](https://desktop.github.com/)
 - [Azure Media Services Explorer]()
 - [Microsoft Azure Storage Explorer]()
 
 ## Software SDK
 - [Python SDK]()
-- [Java SDK]()
+- [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Node.js]()
 - [Git Bash]()
 
